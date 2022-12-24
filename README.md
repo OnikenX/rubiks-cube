@@ -120,4 +120,8 @@ If you have the complete side, position it opposite to you and use one of these 
 
 If you don't have one complete side do one of the steps above and try it follow the above.
 
+## Getting somewhere
+Algorithm: **L' U R U' L U R' R U R' U R U2 R'**
+when you dont have nither of the last 2 you need to do the following:
+
 
